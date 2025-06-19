@@ -188,11 +188,9 @@ body {
 }
 
 .landing-section2-container-section-img svg {
-  height: 25vh;
+  height: 80vh;
   background-size: contain;
-  transform: scale(0.5);
-  transform: translateY(-90px); /* Shift up */
-  width: 30vh;
+  width: 130vh;
   margin: 0;
 }
 
@@ -588,6 +586,9 @@ li {
 
   .landing-section2-container-section-img svg {
     height: 65vh;
+    transform: scale(0.5);
+    transform: translateY(-90px); /* Shift up */
+  
   }
 
   
